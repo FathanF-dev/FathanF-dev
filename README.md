@@ -1,6 +1,6 @@
 ## Hi there Fathan Fatahilah here👋
 <a href="https://github.com/FathanF-dev/FathanF-dev/edit/main/README.md" target="_blank"><img src="https://media1.tenor.com/m/Qequjksh-8UAAAAd/doksli-dingin.gif
-" alt="blank" width="300"></a>
+" alt="" width="300"></a>
 <!--
 **epep35/epep35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
